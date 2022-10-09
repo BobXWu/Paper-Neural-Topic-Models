@@ -12,7 +12,13 @@
 
 1. **Neural Models for Documents with Metadata** *Dallas Card, Chenhao Tan, Noah A. Smith* `ACL 2018` [[pdf]](https://arxiv.org/pdf/1705.09296) [[code]](https://github.com/dallascard/scholar)
 
+1. **Topic Modeling with Wasserstein Autoencoders** *Feng Nan, Ran Ding, Ramesh Nallapati, Bing Xiang* `ACL 2019` [[pdf]](https://aclanthology.org/P19-1640.pdf) [[code]](https://paperswithcode.com/paper/?acl=P19-1640)
+
+1. **Topic Modeling in Embedding Spaces** *Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei* `TACL 2020` [[pdf]](https://aclanthology.org/2020.tacl-1.29.pdf) [[code]](https://paperswithcode.com/paper/?acl=2020.tacl-1.29)
+
 1. **Discovering Topics in Long-tailed Corpora with Causal Intervention** *Xiaobao Wu, Chunping Li, Yishu Miao* `ACL 2021 findings` [[pdf]](https://aclanthology.org/2021.findings-acl.15.pdf) [[code]](https://github.com/bobxwu/DecTM)
+
+1. **Contrastive Learning for Neural Topic Model** *Thong Nguyen, Anh Tuan Luu* `NeurIPS 2021` [[pdf]](https://arxiv.org/pdf/2110.12764) [[code]](https://github.com/nguyentthong/CLNTM)
 
 1. **Neural Topic Model via Optimal Transport** *He Zhao, Dinh Phung, Viet Huynh, Trung Le, Wray Buntine* `NeurIPS 2021` [[pdf]](https://arxiv.org/pdf/2008.13537) [[code]](https://github.com/ethanhezhao/NeuralSinkhornTopicModel)
 
@@ -30,7 +36,7 @@
 
 1. **Short Text Topic Modeling with Topic Distribution Quantization and Negative Sampling Decoder** *Xiaobao Wu, Chunping Li, Yan Zhu, Yishu Miao* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.138.pdf) [[code]](https://github.com/bobxwu/NQTM)
 
-1. **Extracting Topics with Simultaneous Word Co-occurrence and Semantic Correlation Graphs: Neural Topic Modeling for Short Texts** *Yiming Wang, Ximing Li, Xiaotang Zhou, Jihong Ouyang* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.findings-emnlp.2.pdf)
+1. **Extracting Topics with Simultaneous Word Co-occurrence and Semantic Correlation Graphs: Neural Topic Modeling for Short Texts** *Yiming Wang, Ximing Li, Xiaotang Zhou, Jihong Ouyang* `EMNLP 2021 findings` [[pdf]](https://aclanthology.org/2021.findings-emnlp.2.pdf)
 
 1. **Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning** *Xiaobao Wu, Anh Tuan Luu, Xinshuai Dong* `EMNLP 2022` [[pdf]]() [[code]](https://github.com/bobxwu/TSCTM)
 
@@ -42,5 +48,8 @@
 1. **Multilingual and Multimodal Topic Modelling with Pretrained Embeddings** *Elaine Zosa, Lidia Pivovarova* `COLING 2022`  [[pdf]](https://researchportal.helsinki.fi/files/228080474/COLING_2022_M3L_Topic_Modelling.pdf) [[code]](https://github.com/ezosa/M3L-topic-model)
 
 
+
+
 ### Applications of Neural Topic Models
+
 
