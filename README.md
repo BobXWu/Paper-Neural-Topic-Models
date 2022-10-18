@@ -133,9 +133,9 @@ Note that some studies are not real topic models since they can only produce top
 
 1. **A Novel Neural Topic Model and its Supervised Extension** * Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li, Heng Ji* `AAAI 2015` [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/9499/9358)
 
-1. **Neural Topic Model with Reinforcement Learning** ** `2022` [[pdf]]() [[code]]()
+1. **Neural Topic Model with Reinforcement Learning** *Lin Gui, Jia Leng, Gabriele Pergola, Yu Zhou, Ruifeng Xu, Yulan He* `EMNLP 2019` [[pdf]](https://aclanthology.org/D19-1350/) 
 
-1. **A Neural Autoregressive Topic Model** ** `2022` [[pdf]]() [[code]]()
+1. **A Neural Autoregressive Topic Model** *Hugo Larochelle, Stanislas Lauly* `NeurIPS 2012` [[pdf]](https://papers.nips.cc/paper/2012/hash/b495ce63ede0f4efc9eec62cb947c162-Abstract.html) 
 
 
 
@@ -150,13 +150,13 @@ Note that some studies are not real topic models since they can only produce top
 1. **Neural Relational Topic Models for Scientific Article Analysis** *Haoli Bai, Zhuangbin Chen, Michael R. Lyu, Irwin King, Zenglin Xu* `CIKM 2018` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3269206.3271696?casa_token=Ak1DPOATCdQAAAAA:5i7CAa9x2dA8XUoN6ZBBLvKinqfR9OsqskT5ZlyJVNQ2vJvfv73q7eIeMqEvxrViP36PtohbB70wtg)
 
 
-1. **TopicBERT for Energy Efficient Document Classification** ** `2022` [[pdf]]() [[code]]()
+1. **TopicBERT for Energy Efficient Document Classification** *Yatin Chaudhary, Pankaj Gupta, Khushbu Saxena, Vivek Kulkarni, Thomas Runkler, Hinrich Schütze* `EMNLP 2020 Findings` [[pdf]](https://arxiv.org/abs/2010.16407) [[code]](https://github.com/YatinChaudhary/TopicBERT)
 
-1. **TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency** ** `2022` [[pdf]]() [[code]]()
+1. **TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency** *Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley* `ICLR 2017` [[pdf]](https://arxiv.org/abs/1611.01702) [[code]](https://paperswithcode.com/paper/topicrnn-a-recurrent-neural-network-with-long)
 
-1. **Structured Neural Topic Models for Reviews** ** `2022` [[pdf]]() [[code]]()
+1. **Structured Neural Topic Models for Reviews** *Babak Esmaeili, Hongyi Huang, Byron C. Wallace, Jan-Willem van de Meent* `AISTATS 2019` [[pdf]](https://arxiv.org/abs/1812.05035) 
 
-1. **Interaction-aware Topic Model for Microblog Conversations through Network Embedding and User Attention** ** `2022` [[pdf]]() [[code]]()
+1. **Interaction-aware Topic Model for Microblog Conversations through Network Embedding and User Attention** *Ruifang He, Xuefei Zhang, Di Jin, Longbiao Wang, Jianwu Dang, Xiangang Li* `COLING 2018` [[pdf]](https://aclanthology.org/C18-1118/) 
 
 
 
@@ -164,11 +164,11 @@ Note that some studies are not real topic models since they can only produce top
 
 1. **Evaluation Methods for Topic Models** *Hanna M. Wallach, Iain Murray, Ruslan Salakhutdinov, David Mimno* `ICML 2009` [[pdf]]()
 
-1. **Reading tea leaves: How humans interpret topic models** ** `2022` [[pdf]]() [[code]]()
+1. **Reading tea leaves: How humans interpret topic models** *Jonathan Chang, Sean Gerrish, Chong Wang, Jordan Boyd-graber, David Blei* `NeurIPS 2009` [[pdf]](https://papers.nips.cc/paper/2009/hash/f92586a25bb3145facd64ab20fd554ff-Abstract.html)
 
-1. **Topic Model or Topic Twaddle? Re-evaluating Semantic Interpretability Measures** ** `2022` [[pdf]]() [[code]]()
+1. **Topic Model or Topic Twaddle? Re-evaluating Semantic Interpretability Measures** *Caitlin Doogan, Wray Buntine* `NAACL 2021` [[pdf]](https://aclanthology.org/2021.naacl-main.300/) [[code]]()
 
-1. **Machine reading tea leaves: Automatically evaluating topic coherence and topic model quality** ** `2022` [[pdf]]() [[code]]()
+1. **Machine reading tea leaves: Automatically evaluating topic coherence and topic model quality** *Jey Han Lau, David Newman, Timothy Baldwin* `ACL 2014` [[pdf]](https://aclanthology.org/E14-1056/) [[code]](https://github.com/jhlau/topic_interpretability)
 
 1. **Exploring the Space of Topic Coherence Measures** *Michael Röder, Andreas Both, Alexander Hinneburg* `WSDM 2015` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2684822.2685324?casa_token=SZCz7HIe8ecAAAAA:w76e2OqcMLJ6lcuTkU050S_QREP8LNm2kAXpV-O47kAT6FW9jpsBwMp-2Vsa_iDxVxpV0LfkoQSZGA) [[code]](https://github.com/dice-group/Palmetto)
 
