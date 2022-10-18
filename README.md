@@ -56,7 +56,7 @@
 
 1. **Cross-lingual Contextualized Topic Models with Zero-shot Learning** *Federico Bianchi, Silvia Terragni, Dirk Hovy, Debora Nozza, Elisabetta Fersini* `EACL 2021` [[pdf]](https://aclanthology.org/2021.eacl-main.143.pdf) [[code]](https://paperswithcode.com/paper/?acl=2021.eacl-main.143)
 
-
+1. **Auto-encoding variational Bayes.** *Diederik P Kingma, Max Welling* `ICLR 2014` [[pdf]](https://arxiv.org/abs/1312.6114)
 
 
 ### Neural Topic Models with Adversarial Training
