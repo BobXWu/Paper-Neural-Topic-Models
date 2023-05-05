@@ -36,17 +36,17 @@
 
 1. **Neural Topic Model via Optimal Transport** *He Zhao, Dinh Phung, Viet Huynh, Trung Le, Wray Buntine* `NeurIPS 2021` [[pdf]](https://arxiv.org/pdf/2008.13537) [[code]](https://github.com/ethanhezhao/NeuralSinkhornTopicModel)
 
-1. **Decoupling Sparsity and Smoothness in the Dirichlet Variational Autoencoder Topic Model** *Sophie Burkhardt, Stefan Kramer* `JMLR 2019` [[pdf]](https://www.jmlr.org/papers/volume20/18-569/18-569.pdf) [[code]]()
+1. **Decoupling Sparsity and Smoothness in the Dirichlet Variational Autoencoder Topic Model** *Sophie Burkhardt, Stefan Kramer* `JMLR 2019` [[pdf]](https://www.jmlr.org/papers/volume20/18-569/18-569.pdf)
 
-1. **Coherence-aware Neural Topic Modeling** ** `2022` [[pdf]]() [[code]]()
+1. **Coherence-aware Neural Topic Modeling** *Ran Ding, Ramesh Nallapati, Bing Xiang* `EMNLP 2018` [[pdf]](https://arxiv.org/abs/1809.02687) [[code]](https://paperswithcode.com/paper/coherence-aware-neural-topic-modeling)
 
 1. **Tree-structured Neural Topic Model** *Masaru Isonuma, Junichiro Mori, Danushka Bollegala, Ichiro Sakata* `ACL 2020` [[pdf]](https://aclanthology.org/2020.acl-main.73.pdf)
 
 
-1. **Neural Variational Correlated Topic Modeling** ** `2022` [[pdf]]() [[code]]()
+1. **Neural Variational Correlated Topic Modeling** *Luyang Liu, Heyan Huang, Yang Gao, Yongfeng Zhang, Xiaochi Wei* `WWW 2019` [[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313561)
 
 
-1. **Learning VAE-LDA models with Rounded Reparameterization Trick** ** `EMNLP 2020` [[pdf]]() [[code]]()
+1. **Learning VAE-LDA models with Rounded Reparameterization Trick** *Runzhi Tian, Yongyi Mao, Richong Zhang* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.101/)
 
 1. **A Discrete Variational Recurrent Topic Model without the Reparametrization Trick** *Mehdi Rezaee, Francis Ferraro* `NeurIPS 2020` [[pdf]](https://proceedings.neurips.cc/paper/2020/file/9f1d5659d5880fb427f6e04ae500fc25-Paper.pdf)
 
@@ -62,14 +62,14 @@
 
 1. **Cross-lingual Contextualized Topic Models with Zero-shot Learning** *Federico Bianchi, Silvia Terragni, Dirk Hovy, Debora Nozza, Elisabetta Fersini* `EACL 2021` [[pdf]](https://aclanthology.org/2021.eacl-main.143.pdf) [[code]](https://paperswithcode.com/paper/?acl=2021.eacl-main.143)
 
-
+1. **Auto-encoding variational Bayes.** *Diederik P Kingma, Max Welling* `ICLR 2014` [[pdf]](https://arxiv.org/abs/1312.6114)
 
 
 ### Neural Topic Models with Adversarial Training
 
 1. **ATM: Adversarial-neural Topic Model** *Rui Wang, Deyu Zhou, Yulan He* `Information Processing & Management 2019` [[pdf]](https://arxiv.org/pdf/1811.00265)
 
-1. **Neural Topic Modeling with Bidirectional Adversarial Training** *Rui Wang, Xuemeng Hu, Deyu Zhou, Yulan He, Yuxuan Xiong, Chenchen Ye, Haiyang Xu* `ACL 2020` [[pdf]]() [[code]]()
+1. **Neural Topic Modeling with Bidirectional Adversarial Training** *Rui Wang, Xuemeng Hu, Deyu Zhou, Yulan He, Yuxuan Xiong, Chenchen Ye, Haiyang Xu* `ACL 2020` [[pdf]](https://aclanthology.org/2020.acl-main.32/) [[code]](https://github.com/zll17/Neural_Topic_Models)
 
 1. **Neural Topic Modeling with Cycle-consistent Adversarial Training** *Xuemeng Hu, Rui Wang, Deyu Zhou, Yuxuan Xiong* `EMNLP 2020` [[pdf]](https://arxiv.org/pdf/2009.13971)
 
@@ -87,8 +87,7 @@
 
 1. **Topic Modeling on Document Networks with Adjacent-Encoder** *Delvin Ce Zhang, Hady W. Lauw* `AAAI 2022` [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6152/6008) [[code]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcezhang01%2FAdjacent-Encoder&sa=D&sntz=1&usg=AOvVaw3jGZDHrfjxic8x3teUK0fh)
 
-1. **Neural Topic Modeling by Incorporating Document Relationship Graph** *Deyu Zhou, Xuemeng Hu, Rui Wang* `EMNLP 2020` [[pdf]]() [[code]]()
-
+1. **Neural Topic Modeling by Incorporating Document Relationship Graph** *Deyu Zhou, Xuemeng Hu, Rui Wang* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.310/) 
 
 1. **Graph Attention Topic Modeling Network** *Liang Yang, Fan Wu, Junhua Gu, Chuan Wang, Xiaochun Cao, Di Jin, Yuanfang Guo* `WWW 2020` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380102?casa_token=8fqM-QD88WUAAAAA:E3uNrpuXWVC_4Kd1nZ-fpSrd3_mxClzEx_FY23lsqaHLDryXdsK3NINRPSk4BATi7jJZqSJHP5ewjg)
 
@@ -144,9 +143,9 @@ Note that some studies are not real topic models since they can only produce top
 
 1. **A Novel Neural Topic Model and its Supervised Extension** * Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li, Heng Ji* `AAAI 2015` [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/9499/9358)
 
-1. **Neural Topic Model with Reinforcement Learning** ** `2022` [[pdf]]() [[code]]()
+1. **Neural Topic Model with Reinforcement Learning** *Lin Gui, Jia Leng, Gabriele Pergola, Yu Zhou, Ruifeng Xu, Yulan He* `EMNLP 2019` [[pdf]](https://aclanthology.org/D19-1350/) 
 
-1. **A Neural Autoregressive Topic Model** ** `2022` [[pdf]]() [[code]]()
+1. **A Neural Autoregressive Topic Model** *Hugo Larochelle, Stanislas Lauly* `NeurIPS 2012` [[pdf]](https://papers.nips.cc/paper/2012/hash/b495ce63ede0f4efc9eec62cb947c162-Abstract.html) 
 
 
 
@@ -161,25 +160,25 @@ Note that some studies are not real topic models since they can only produce top
 1. **Neural Relational Topic Models for Scientific Article Analysis** *Haoli Bai, Zhuangbin Chen, Michael R. Lyu, Irwin King, Zenglin Xu* `CIKM 2018` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3269206.3271696?casa_token=Ak1DPOATCdQAAAAA:5i7CAa9x2dA8XUoN6ZBBLvKinqfR9OsqskT5ZlyJVNQ2vJvfv73q7eIeMqEvxrViP36PtohbB70wtg)
 
 
-1. **TopicBERT for Energy Efficient Document Classification** ** `2022` [[pdf]]() [[code]]()
+1. **TopicBERT for Energy Efficient Document Classification** *Yatin Chaudhary, Pankaj Gupta, Khushbu Saxena, Vivek Kulkarni, Thomas Runkler, Hinrich Schütze* `EMNLP 2020 Findings` [[pdf]](https://arxiv.org/abs/2010.16407) [[code]](https://github.com/YatinChaudhary/TopicBERT)
 
-1. **TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency** ** `2022` [[pdf]]() [[code]]()
+1. **TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency** *Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley* `ICLR 2017` [[pdf]](https://arxiv.org/abs/1611.01702) [[code]](https://paperswithcode.com/paper/topicrnn-a-recurrent-neural-network-with-long)
 
-1. **Structured Neural Topic Models for Reviews** ** `2022` [[pdf]]() [[code]]()
+1. **Structured Neural Topic Models for Reviews** *Babak Esmaeili, Hongyi Huang, Byron C. Wallace, Jan-Willem van de Meent* `AISTATS 2019` [[pdf]](https://arxiv.org/abs/1812.05035) 
 
-1. **Interaction-aware Topic Model for Microblog Conversations through Network Embedding and User Attention** ** `2022` [[pdf]]() [[code]]()
+1. **Interaction-aware Topic Model for Microblog Conversations through Network Embedding and User Attention** *Ruifang He, Xuefei Zhang, Di Jin, Longbiao Wang, Jianwu Dang, Xiangang Li* `COLING 2018` [[pdf]](https://aclanthology.org/C18-1118/) 
 
 
 
 ### Evaluation of Topic Models
 
-1. **Evaluation Methods for Topic Models** *Hanna M. Wallach, Iain Murray, Ruslan Salakhutdinov, David Mimno* `ICML 2009` [[pdf]]()
+1. **Evaluation Methods for Topic Models** *Hanna M. Wallach, Iain Murray, Ruslan Salakhutdinov, David Mimno* `ICML 2009` [[pdf]](http://dirichlet.net/pdf/wallach09evaluation.pdf)
 
-1. **Reading tea leaves: How humans interpret topic models** ** `2022` [[pdf]]() [[code]]()
+1. **Reading tea leaves: How humans interpret topic models** *Jonathan Chang, Sean Gerrish, Chong Wang, Jordan Boyd-graber, David Blei* `NeurIPS 2009` [[pdf]](https://papers.nips.cc/paper/2009/hash/f92586a25bb3145facd64ab20fd554ff-Abstract.html)
 
-1. **Topic Model or Topic Twaddle? Re-evaluating Semantic Interpretability Measures** ** `2022` [[pdf]]() [[code]]()
+1. **Topic Model or Topic Twaddle? Re-evaluating Semantic Interpretability Measures** *Caitlin Doogan, Wray Buntine* `NAACL 2021` [[pdf]](https://aclanthology.org/2021.naacl-main.300/)
 
-1. **Machine reading tea leaves: Automatically evaluating topic coherence and topic model quality** ** `2022` [[pdf]]() [[code]]()
+1. **Machine reading tea leaves: Automatically evaluating topic coherence and topic model quality** *Jey Han Lau, David Newman, Timothy Baldwin* `ACL 2014` [[pdf]](https://aclanthology.org/E14-1056/) [[code]](https://github.com/jhlau/topic_interpretability)
 
 1. **Exploring the Space of Topic Coherence Measures** *Michael Röder, Andreas Both, Alexander Hinneburg* `WSDM 2015` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2684822.2685324?casa_token=SZCz7HIe8ecAAAAA:w76e2OqcMLJ6lcuTkU050S_QREP8LNm2kAXpV-O47kAT6FW9jpsBwMp-2Vsa_iDxVxpV0LfkoQSZGA) [[code]](https://github.com/dice-group/Palmetto)
 
