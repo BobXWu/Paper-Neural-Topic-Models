@@ -1,14 +1,20 @@
-# Papers of Neural Topic Models
+# Papers of Neural Topic Models (NTMs)
+
 
 ### Survey
 
 1. **Topic Modelling Meets Deep Neural Networks: A Survey** *He Zhao, Dinh Phung, Viet Huynh, Yuan Jin, Lan Du, Wray Buntine* `IJCAI 2021` [[pdf]](https://arxiv.org/pdf/2103.00498)
 
 
+1. **Topic modeling algorithms and applications: A survey** *
 
 
+### unclassified
 
-### VAE-based Neural Topic Models
+1. **Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**
+
+
+### VAE-based NTMs
 
 1. **Neural Variational Inference for Text Processing** *Yishu Miao, Lei Yu, Phil Blunsom* `ICML 2016` [[pdf]](https://arxiv.org/pdf/1511.06038) [[code]](https://github.com/ysmiao/nvdm)
 
@@ -68,7 +74,9 @@
 1. **Neural Topic Modeling with Cycle-consistent Adversarial Training** *Xuemeng Hu, Rui Wang, Deyu Zhou, Yuxuan Xiong* `EMNLP 2020` [[pdf]](https://arxiv.org/pdf/2009.13971)
 
 
+### NTM with Contrastive Learning
 
+1. Improving topic disentanglement via contrastive learning
 
 
 ### Neural Topic Models with Graphs
@@ -85,6 +93,9 @@
 1. **Graph Attention Topic Modeling Network** *Liang Yang, Fan Wu, Junhua Gu, Chuan Wang, Xiaochun Cao, Di Jin, Yuanfang Guo* `WWW 2020` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3366423.3380102?casa_token=8fqM-QD88WUAAAAA:E3uNrpuXWVC_4Kd1nZ-fpSrd3_mxClzEx_FY23lsqaHLDryXdsK3NINRPSk4BATi7jJZqSJHP5ewjg)
 
 
+### Hierarchical NTM
+
+1. **Neural attention-aware hierarchical topic model**
 
 
 ### Short Text Neural Topic Models
@@ -111,13 +122,13 @@
 
 
 
-### Dynamic Neural Topic Models
+### Dynamic NTMs
 
 1. **Dynamic Topic Models for Temporal Document Networks** *Delvin Ce Zhang, Hady W. Lauw* `ICML 2022` [[pdf]](https://proceedings.mlr.press/v162/zhang22n/zhang22n.pdf)
 
 
 
-### Neural Topic Models with Clustering
+### NTMs with Clustering
 
 Note that some studies are not real topic models since they can only produce topics while cannot infer the topic distributions of documents as required.
 
@@ -141,7 +152,7 @@ Note that some studies are not real topic models since they can only produce top
 
 
 
-### Applications of Neural Topic Models
+### Applications of NTMs
 
 1. **Topic Memory Networks for Short Text Classification** *Jichuan Zeng, Jing Li, Yan Song, Cuiyun Gao, Michael R. Lyu, Irwin King* `EMNLP 2018` [[pdf]](https://aclanthology.org/D18-1351.pdf) [[code]](https://github.com/zengjichuan/TMN)
 
@@ -172,4 +183,7 @@ Note that some studies are not real topic models since they can only produce top
 
 1. **Exploring the Space of Topic Coherence Measures** *Michael Röder, Andreas Both, Alexander Hinneburg* `WSDM 2015` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2684822.2685324?casa_token=SZCz7HIe8ecAAAAA:w76e2OqcMLJ6lcuTkU050S_QREP8LNm2kAXpV-O47kAT6FW9jpsBwMp-2Vsa_iDxVxpV0LfkoQSZGA) [[code]](https://github.com/dice-group/Palmetto)
 
+1. **Is automated topic model evaluation broken? the incoherence of coherence**
+
+1. **Are Neural Topic Models Broken?**
 
