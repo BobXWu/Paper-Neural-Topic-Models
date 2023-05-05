@@ -1,5 +1,22 @@
 # Papers of Neural Topic Models (NTMs)
 
+- [Papers of Neural Topic Models (NTMs)](#papers-of-neural-topic-models-ntms)
+    - [Survey](#survey)
+    - [unclassified](#unclassified)
+    - [VAE-based NTMs](#vae-based-ntms)
+    - [Neural Topic Models with PLMs](#neural-topic-models-with-plms)
+    - [Neural Topic Models with Adversarial Training](#neural-topic-models-with-adversarial-training)
+    - [NTM with Contrastive Learning](#ntm-with-contrastive-learning)
+    - [Neural Topic Models with Graphs](#neural-topic-models-with-graphs)
+    - [Hierarchical NTM](#hierarchical-ntm)
+    - [Short Text Neural Topic Models](#short-text-neural-topic-models)
+    - [Cross-lingual (Multilingual) Neural Topic Models](#cross-lingual-multilingual-neural-topic-models)
+    - [Dynamic NTMs](#dynamic-ntms)
+    - [NTMs with Clustering](#ntms-with-clustering)
+    - [Others](#others)
+    - [Applications of NTMs](#applications-of-ntms)
+    - [Evaluation of Topic Models](#evaluation-of-topic-models)
+
 
 ### Survey
 
