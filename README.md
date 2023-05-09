@@ -36,6 +36,18 @@
 
 1. **Enhancing extractive text summarization with topic-aware graph neural networks**
 
+1. **Topic modeling in embedding spaces**
+
+1. **Structured neural topic models for reviews**
+
+1. **Context reinforced neural topic modeling over short texts**
+
+1. **Neural topic model with reinforcement learning**
+
+1. **Recurrent hierarchical topic-guided RNN for language generation**
+
+1. **Document informed neural autoregressive topic models with distributional prior**
+
 
 
 ### VAE-based NTMs
