@@ -30,6 +30,13 @@
 
 1. **Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**
 
+1. **Tree-Structured Decoding with DOUBLYRECURRENT Neural Networks**
+
+1. **K-competitive autoencoder for text**
+
+1. **Enhancing extractive text summarization with topic-aware graph neural networks**
+
+
 
 ### VAE-based NTMs
 
