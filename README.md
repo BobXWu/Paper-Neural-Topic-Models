@@ -48,7 +48,17 @@
 
 1. **Document informed neural autoregressive topic models with distributional prior**
 
+1. **BERTopic: Neural topic modeling with a class-based TF-IDF procedure**
 
+1. **Improving neural topic modeling via Sinkhorn divergence**
+
+1. **Large language models are implicitly topic models: Explaining and finding good demonstrations for in-context learning**
+
+1. **Topic Modeling With Topological Data Analysis**
+
+1. **Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference**
+
+1. **TAN-NTM: Topic Attention Networks for Neural Topic Modeling**
 
 ### VAE-based NTMs
 
