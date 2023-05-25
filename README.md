@@ -34,31 +34,29 @@
 
 1. **K-competitive autoencoder for text** *Yu Chen, Mohammed J. Zaki* `KDD 2017` [[pdf]](https://arxiv.org/abs/1705.02033)
 
-1. **Enhancing extractive text summarization with topic-aware graph neural networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING 2020` (https://arxiv.org/abs/2010.06253)
+1. **Enhancing extractive text summarization with topic-aware graph neural networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING 2020` [[pdf]](https://arxiv.org/abs/2010.06253)
 
 1. **Topic modeling in embedding spaces** *Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei* `arXiv 2019` [[pdf]](https://arxiv.org/abs/1907.04907) 
 
-1. **Structured neural topic models for reviews** 
+1. **Structured neural topic models for reviews** *Babak Esmaeili, Hongyi Huang, Byron C. Wallace, Jan-Willem van de Meent* `arXiv 2018` [[pdf]](https://arxiv.org/abs/1812.05035)
 
-1. **Context reinforced neural topic modeling over short texts**
+1. **Context reinforced neural topic modeling over short texts** *Jiachun Feng, Zusheng Zhang, Cheng Ding, Yanghui Rao, Haoran Xie* `arXiv 2020` [[pdf]](https://arxiv.org/abs/2008.04545)
 
-1. **Neural topic model with reinforcement learning**
+1. **Neural topic model with reinforcement learning** *Lin Gui, Jia Leng, Gabriele Pergola, Yu Zhou, Ruifeng Xu, Yulan He* `EMNLP 2019` [[pdf]](https://aclanthology.org/D19-1350/)
 
-1. **Recurrent hierarchical topic-guided RNN for language generation**
+1. **Recurrent hierarchical topic-guided RNN for language generation** *Dandan Guo, Bo Chen, Ruiying Lu, Mingyuan Zhou* `ICML 2020` [[pdf]](https://arxiv.org/abs/1912.10337)
 
-1. **Document informed neural autoregressive topic models with distributional prior**
+1. **Document informed neural autoregressive topic models with distributional prior** *Pankaj Gupta, Yatin Chaudhary, Florian Buettner, Hinrich Schütze* `AAAI 2019` [[pdf]](https://arxiv.org/abs/1809.06709)
 
-1. **BERTopic: Neural topic modeling with a class-based TF-IDF procedure**
+1. **BERTopic: Neural topic modeling with a class-based TF-IDF procedure** *Maarten Grootendorst* `arXiv 2022` [[pdf]](https://arxiv.org/abs/2203.05794)
 
-1. **Improving neural topic modeling via Sinkhorn divergence**
+1. **Large language models are implicitly topic models: Explaining and finding good demonstrations for in-context learning** *Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2301.11916)
 
-1. **Large language models are implicitly topic models: Explaining and finding good demonstrations for in-context learning**
+1. **Topic Modeling With Topological Data Analysis** *Ciarán Byrne, Danijela Horak, Karo Moilanen, Amandla Mabona* `EMNLP 2022` [[pdf]](https://aclanthology.org/2022.emnlp-main.792/)
 
-1. **Topic Modeling With Topological Data Analysis**
+1. **Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference** *Ziye Chen, Cheng Ding, Zusheng Zhang, Yanghui Rao, Haoran Xie* `ACL 2021` [[pdf]](https://aclanthology.org/2021.acl-long.182/)
 
-1. **Tree-Structured Topic Modeling with Nonparametric Neural Variational Inference**
-
-1. **TAN-NTM: Topic Attention Networks for Neural Topic Modeling**
+1. **TAN-NTM: Topic Attention Networks for Neural Topic Modeling** *Madhur Panwar, Shashank Shailabh, Milan Aggarwal, Balaji Krishnamurthy* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
 
 ### VAE-based NTMs
 
