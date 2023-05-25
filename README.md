@@ -138,7 +138,7 @@
 
 ### Hierarchical NTM
 
-1. **Neural attention-aware hierarchical topic model**
+1. **Neural attention-aware hierarchical topic model** *Yuan Jin, He Zhao, Ming Liu, Lan Du, Wray Buntine* `arXiv 2021` [[pdf]](https://arxiv.org/abs/2110.07161)
 
 
 ### Short Text Neural Topic Models
