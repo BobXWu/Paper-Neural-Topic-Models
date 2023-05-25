@@ -28,17 +28,17 @@
 
 ### unclassified
 
-1. **Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts**
+1. **Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts** *Yu Zhang, Yunyi Zhang, Martin Michalski, Yucheng Jiang, Yu Meng, Jiawei Han* `WSDM 2023` (https://arxiv.org/abs/2212.06002)
 
-1. **Tree-Structured Decoding with DOUBLYRECURRENT Neural Networks**
+1. **Tree-Structured Decoding with DOUBLYRECURRENT Neural Networks** *David Alvarez-Melis, Tommi S. Jaakkola* `ICLR 2017` (https://openreview.net/forum?id=HkYhZDqxg)
 
-1. **K-competitive autoencoder for text**
+1. **K-competitive autoencoder for text** *Yu Chen, Mohammed J. Zaki* `KDD 2017` (https://arxiv.org/abs/1705.02033)
 
-1. **Enhancing extractive text summarization with topic-aware graph neural networks**
+1. **Enhancing extractive text summarization with topic-aware graph neural networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING 2020` (https://arxiv.org/abs/2010.06253)
 
-1. **Topic modeling in embedding spaces**
+1. **Topic modeling in embedding spaces** *Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei* `arXiv 2019` (https://arxiv.org/abs/1907.04907) 
 
-1. **Structured neural topic models for reviews**
+1. **Structured neural topic models for reviews** 
 
 1. **Context reinforced neural topic modeling over short texts**
 
