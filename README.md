@@ -226,7 +226,7 @@ Note that some studies are not real topic models since they can only produce top
 
 1. **Exploring the Space of Topic Coherence Measures** *Michael Röder, Andreas Both, Alexander Hinneburg* `WSDM 2015` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2684822.2685324?casa_token=SZCz7HIe8ecAAAAA:w76e2OqcMLJ6lcuTkU050S_QREP8LNm2kAXpV-O47kAT6FW9jpsBwMp-2Vsa_iDxVxpV0LfkoQSZGA) [[code]](https://github.com/dice-group/Palmetto)
 
-1. **Is automated topic model evaluation broken? the incoherence of coherence**
+1. **Is automated topic model evaluation broken? the incoherence of coherence** *Alexander Hoyle, Pranav Goel, Denis Peskov, Andrew Hian-Cheong, Jordan Boyd-Graber, Philip Resnik* `NeurIPS 2021` [[pdf]](https://arxiv.org/abs/2107.02173)
 
-1. **Are Neural Topic Models Broken?**
+1. **Are Neural Topic Models Broken?** *Alexander Hoyle, Pranav Goel, Rupak Sarkar, Philip Resnik* `EMNLP 2022` [[pdf]](https://arxiv.org/abs/2210.16162)
 
