@@ -120,7 +120,7 @@
 
 ### NTM with Contrastive Learning
 
-1. Improving topic disentanglement via contrastive learning
+1. **Improving topic disentanglement via contrastive learning** *Xixi Zhou, Jiajin Bu, Sheng Zhou, Zhi Yu, Ji Zhao, Xifeng Yan* `ACM Information Processing and Management: an International Journal` [[pdf]](https://dl.acm.org/doi/10.1016/j.ipm.2022.103164)
 
 
 ### Neural Topic Models with Graphs
