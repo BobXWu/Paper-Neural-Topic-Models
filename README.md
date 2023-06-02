@@ -58,6 +58,17 @@
 
 1. **TAN-NTM: Topic Attention Networks for Neural Topic Modeling** *Madhur Panwar, Shashank Shailabh, Milan Aggarwal, Balaji Krishnamurthy* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
 
+1. **Top2vec: Distributed representations of topics** *Dimo Angelov* `arXiv 2020` [[pdf]]([https://arxiv.org/abs/2012.01524](https://arxiv.org/abs/2008.09470))
+
+1. **Topic modeling techniques for text mining over a large-scale scientific and biomedical text corpus** *Sandhya Avasthi, Ritu Chauhan, Debi Prasanna Acharjya* `IJACI 2022` [[pdf]]([https://arxiv.org/abs/2012.01524](https://www.igi-global.com/article/topic-modeling-techniques-for-text-mining-over-a-large-scale-scientific-and-biomedical-text-corpus/293137))
+
+1. **Correlated topic models** *John Lafferty, David Blei* `NeurIPS 2005` [[pdf]]([https://arxiv.org/abs/2012.01524](https://proceedings.neurips.cc/paper_files/paper/2005/hash/9e82757e9a1c12cb710ad680db11f6f1-Abstract.html))
+
+1. **TAN-NTM: Topic Attention Networks for Neural Topic Modeling** *Madhur Panwar, Shashank Shailabh, Milan Aggarwal, Balaji Krishnamurthy* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
+
+1. **TAN-NTM: Topic Attention Networks for Neural Topic Modeling** *Madhur Panwar, Shashank Shailabh, Milan Aggarwal, Balaji Krishnamurthy* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
+
+
 ### VAE-based NTMs
 
 1. **Neural Variational Inference for Text Processing** *Yishu Miao, Lei Yu, Phil Blunsom* `ICML 2016` [[pdf]](https://arxiv.org/pdf/1511.06038) [[code]](https://github.com/ysmiao/nvdm)
