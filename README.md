@@ -23,9 +23,6 @@
 1. **Topic Modelling Meets Deep Neural Networks: A Survey** *He Zhao, Dinh Phung, Viet Huynh, Yuan Jin, Lan Du, Wray Buntine* `IJCAI 2021` [[pdf]](https://arxiv.org/pdf/2103.00498)
 
 
-1. **Topic modeling algorithms and applications: A survey** *
-
-
 ### unclassified
 
 1. **Effective Seed-Guided Topic Discovery by Integrating Multiple Types of Contexts** *Yu Zhang, Yunyi Zhang, Martin Michalski, Yucheng Jiang, Yu Meng, Jiawei Han* `WSDM 2023` [[pdf]](https://arxiv.org/abs/2212.06002)
@@ -33,8 +30,6 @@
 1. **Tree-Structured Decoding with DOUBLYRECURRENT Neural Networks** *David Alvarez-Melis, Tommi S. Jaakkola* `ICLR 2017` [[pdf]](https://openreview.net/forum?id=HkYhZDqxg)
 
 1. **K-competitive autoencoder for text** *Yu Chen, Mohammed J. Zaki* `KDD 2017` [[pdf]](https://arxiv.org/abs/1705.02033)
-
-1. **Enhancing extractive text summarization with topic-aware graph neural networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING 2020` [[pdf]](https://arxiv.org/abs/2010.06253)
 
 1. **Topic modeling in embedding spaces** *Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei* `arXiv 2019` [[pdf]](https://arxiv.org/abs/1907.04907) 
 
@@ -74,8 +69,6 @@
 
 1. **Variational inference: A review for statisticians** *David Blei, Kucukelbir A, McAuliffe JD* `Journal of the American Statistical Association 2017` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Applications of topic models** *David Mimno, Jordan Boyd-Graber, and Yuening Hu*  [[pdf]](https://arxiv.org/abs/2012.01524)
-
 1. **Estimating likelihoods for topic models** *Wray Buntine* `ACML 2009` [[pdf]](https://arxiv.org/abs/2012.01524)
 
 1. **Reinforcement learning for topic models** *Jeremy Costello, Marek Z. Reformat* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2012.01524)
@@ -85,8 +78,6 @@
 1. **The dynamic embedded topic model** *Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei* `arXiv 2019` [[pdf]](https://arxiv.org/abs/2012.01524)
 
 1. **Topic modeling in embedding spaces** *Adji B. Dieng, Francisco J. R. Ruiz, David Blei* `TACL 2020` [[pdf]](https://arxiv.org/abs/2012.01524)
-
-1. **Benchmarking neural topic models: An empirical study** *Thanh-Nam Doan, Tuan-Anh Hoang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
 
 1. **Hierarchical topic models and the nested chinese restaurant process** *David M. Blei, Michael I. Jordan, Thomas L. Griffiths, Joshua B. Tenenbaum* `NeurIPS 2023` [[pdf]](https://arxiv.org/abs/2012.01524)
 
@@ -124,10 +115,6 @@
 
 1. **Distributed algorithms for topic models** *David Newman, Arthur Asuncion, Padhraic Smyth, Max Welling* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2104.05064)
 
-1. **Automatic evaluation of topic coherence** *David Newman, Jey Han Lau, Karl Grieser, Timothy Baldwin* `NAACL 2010` [[pdf]](https://aclanthology.org/N10-1012/)
-
-1. **Enriching and controlling global semantics for text summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.744/)
-
 1. **Neural discrete representation learning** *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu* `arXiv 2017` [[pdf]](https://arxiv.org/abs/1711.00937)
 
 1. **Representation learning with contrastive predictive coding** *Aaron van den Oord, Yazhe Li, Oriol Vinyals* `arXiv 2018` [[pdf]](https://arxiv.org/abs/1807.03748)
@@ -143,8 +130,6 @@
 1. **Tired of topic models? clusters of pretrained word embeddings make for fast and good topics too** *Suzanna Sia, Ayush Dalmia, Sabrina J. Mielke* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.135/)
 
 1. **Classification aware neural topic model for covid-19 disinformation categorisation** *Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva* `PLOS 2021` [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247086)
-
-1. **Re-visiting automated topic model evaluation with large language models** *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2305.12152)
 
 1. **Topic modeling with contextualized word representation clusters** *Laure Thompson, David Mimno* `ACL 2020` [[pdf]](https://arxiv.org/abs/2010.12626)
 
@@ -186,8 +171,6 @@
 
 1. **Is neural topic modelling better than clustering? an empirical study on clustering with contextual embeddings for topics** *Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.285/)
 
-1. **Topic modelling meets deep neural networks: A survey** *He Zhao, Dinh Phung, Viet Huynh, Yuan Jin, Lan Du, Wray Buntine* `arXiv 2021` [[pdf]](https://arxiv.org/abs/2103.00498)
-
 1. **Neural topic model via optimal transport** *He Zhao, Dinh Phung, Viet Huynh, Trung Le, Wray Buntine* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2008.13537)
 
 1. **A neural topic model with word vectors and entity vectors for short texts** *Xiaowei Zhao, Deqing Wang, Zhengyang Zhao, Wei Liu, Chenwei Lu, Fuzhen Zhuang* `Information Processing & Management 2021` [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S030645732030947X)
@@ -223,7 +206,6 @@
 1. **Coherence-aware Neural Topic Modeling** *Ran Ding, Ramesh Nallapati, Bing Xiang* `EMNLP 2018` [[pdf]](https://arxiv.org/abs/1809.02687) [[code]](https://paperswithcode.com/paper/coherence-aware-neural-topic-modeling)
 
 1. **Tree-structured Neural Topic Model** *Masaru Isonuma, Junichiro Mori, Danushka Bollegala, Ichiro Sakata* `ACL 2020` [[pdf]](https://aclanthology.org/2020.acl-main.73.pdf)
-
 
 1. **Neural Variational Correlated Topic Modeling** *Luyang Liu, Heyan Huang, Yang Gao, Yongfeng Zhang, Xiaochi Wei* `WWW 2019` [[pdf]](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313561)
 
@@ -350,7 +332,11 @@ Note that some studies are not real topic models since they can only produce top
 
 1. **Interaction-aware Topic Model for Microblog Conversations through Network Embedding and User Attention** *Ruifang He, Xuefei Zhang, Di Jin, Longbiao Wang, Jianwu Dang, Xiangang Li* `COLING 2018` [[pdf]](https://aclanthology.org/C18-1118/) 
 
+1. **Enhancing extractive text summarization with topic-aware graph neural networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING 2020` [[pdf]](https://arxiv.org/abs/2010.06253)
 
+1. **Enriching and controlling global semantics for text summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.744/)
+
+1. **Applications of topic models** *David Mimno, Jordan Boyd-Graber, and Yuening Hu*  [[pdf]](https://arxiv.org/abs/2012.01524)
 
 ### Evaluation of Topic Models
 
@@ -368,3 +354,8 @@ Note that some studies are not real topic models since they can only produce top
 
 1. **Are Neural Topic Models Broken?** *Alexander Hoyle, Pranav Goel, Rupak Sarkar, Philip Resnik* `EMNLP 2022` [[pdf]](https://arxiv.org/abs/2210.16162)
 
+1. **Automatic evaluation of topic coherence** *David Newman, Jey Han Lau, Karl Grieser, Timothy Baldwin* `NAACL 2010` [[pdf]](https://aclanthology.org/N10-1012/)
+
+1. **Benchmarking neural topic models: An empirical study** *Thanh-Nam Doan, Tuan-Anh Hoang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
+
+1. **Re-visiting automated topic model evaluation with large language models** *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2305.12152)
