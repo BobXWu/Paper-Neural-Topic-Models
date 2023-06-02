@@ -64,135 +64,135 @@
 
 1. **Correlated topic models** *John Lafferty, David Blei* `NeurIPS 2005` [[pdf]]([https://arxiv.org/abs/2012.01524](https://proceedings.neurips.cc/paper_files/paper/2005/hash/9e82757e9a1c12cb710ad680db11f6f1-Abstract.html))
 
-1. **Probabilistic topic models** *Blei DM* `Communications of the ACM 2012` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Probabilistic topic models** *David Blei* `Communications of the ACM 2012` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Dynamic topic models** *Blei DM, Lafferty JD* `ICML 2006` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Dynamic topic models** *David Blei, John Lafferty* `ICML 2006` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Latent dirichlet allocation** *Blei DM, Ng AY, Jordan MI* `JLMR 2003` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Latent dirichlet allocation** *David Blei, Andrew Ng, Michael Jordan* `JLMR 2003` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies.** *Blei DM, Griffiths TL, Jordan MI* `JACM 2010` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **The nested chinese restaurant process and bayesian nonparametric inference of topic hierarchies.** *David Blei, Griffiths TL, Michael Jordan* `JACM 2010` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Variational inference: A review for statisticians** *Blei DM, Kucukelbir A, McAuliffe JD* `Journal of the American Statistical Association 2017` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Variational inference: A review for statisticians** *David Blei, Kucukelbir A, McAuliffe JD* `Journal of the American Statistical Association 2017` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Applications of topic models** *Boyd-Graber JL, Hu Y, Mimno D, et al*  [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Applications of topic models** *David Mimno, Jordan Boyd-Graber, and Yuening Hu*  [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Estimating likelihoods for topic models** *Buntine WL* `ACML 2009` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Estimating likelihoods for topic models** *Wray Buntine* `ACML 2009` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Reinforcement learning for topic models** *Costello J, Reformat MZ* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Reinforcement learning for topic models** *Jeremy Costello, Marek Z. Reformat* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Neural dynamic focused topic model** *Cvejoski K, S´anchez RJ, Ojeda C* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Neural dynamic focused topic model** *Kostadin Cvejoski, Ramsés J. Sánchez, César Ojeda* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **The dynamic embedded topic model** *Dieng AB, Ruiz FJ, Blei DM* `arXiv 2019` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **The dynamic embedded topic model** *Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei* `arXiv 2019` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Topic modeling in embedding spaces** *Dieng AB, Ruiz FJ, Blei DM* `TACL 2020` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Topic modeling in embedding spaces** *Adji B. Dieng, Francisco J. R. Ruiz, David Blei* `TACL 2020` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Benchmarking neural topic models: An empirical study** *Doan TN, Hoang TA* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Benchmarking neural topic models: An empirical study** *Thanh-Nam Doan, Tuan-Anh Hoang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Hierarchical topic models and the nested chinese restaurant process** *Griffiths T, Jordan M, Tenenbaum J, et al* `NeurIPS 2023` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Hierarchical topic models and the nested chinese restaurant process** *David M. Blei, Michael I. Jordan, Thomas L. Griffiths, Joshua B. Tenenbaum* `NeurIPS 2023` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Neural topic modeling with continual lifelong learning** *Gupta P, Chaudhary Y, Runkler T, et al* `ICML 2020` [[pdf]](https://arxiv.org/abs/2006.10909)
+1. **Neural topic modeling with continual lifelong learning** *Pankaj Gupta, Yatin Chaudhary, Thomas Runkler, Hinrich Schütze* `ICML 2020` [[pdf]](https://arxiv.org/abs/2006.10909)
 
-1. **Multi task mutual learning for joint sentiment classification and topic detection** *Gui L, Leng J, Zhou J, et al* `IEEE Transactions on Knowledge and Data Engineering 2020` [[pdf]](https://ieeexplore.ieee.org/document/9112648)
+1. **Multi task mutual learning for joint sentiment classification and topic detection** *Lin Gui; Jia Leng; Jiyun Zhou; Ruifeng Xu; Yulan He* `IEEE Transactions on Knowledge and Data Engineering 2020` [[pdf]](https://ieeexplore.ieee.org/document/9112648)
 
-1. **Kernel topic models** *Gupta P, Chaudhary Y, Runkler T, et al* `arXiv 2011` [[pdf]](https://arxiv.org/abs/1110.4713)
+1. **Kernel topic models** *Philipp Hennig, David Stern, Ralf Herbrich, Thore Graepel* `arXiv 2011` [[pdf]](https://arxiv.org/abs/1110.4713)
 
-1. **Replicated softmax: an undirected topic model** *Hinton GE, Salakhutdinov RR* `NeurIPS 2009` [[pdf]](https://papers.nips.cc/paper_files/paper/2009/hash/31839b036f63806cba3f47b93af8ccb5-Abstract.html)
+1. **Replicated softmax: an undirected topic model** *Geoffrey E. Hinton, Russ R. Salakhutdinov* `NeurIPS 2009` [[pdf]](https://papers.nips.cc/paper_files/paper/2009/hash/31839b036f63806cba3f47b93af8ccb5-Abstract.html)
 
-1. **Dirichlet variational autoencoder** *Joo W, Lee W, Park S, et al* `arXiv 2019` [[pdf]](https://arxiv.org/abs/1901.02739)
+1. **Dirichlet variational autoencoder** *Weonyoung Joo, Wonsung Lee, Sungrae Park, Il-Chul Moon* `arXiv 2019` [[pdf]](https://arxiv.org/abs/1901.02739)
 
-1. **Simultaneous discovery of common and discriminative topics via joint nonnegative matrix factorization** *Kim H, Choo J, Kim J, et al* `KDD 2015` [[pdf]](https://dl.acm.org/doi/10.1145/2783258.2783338)
+1. **Simultaneous discovery of common and discriminative topics via joint nonnegative matrix factorization** *Hannah Kim, Jaegul Choo, Jingu Kim, Chandan K. Reddy, Haesun Park* `KDD 2015` [[pdf]](https://dl.acm.org/doi/10.1145/2783258.2783338)
 
-1. **Discriminative topic modeling with logistic lda** *Korshunova I, Xiong H, Fedoryszak M, et al* `arXiv 2019` [[pdf]](https://arxiv.org/abs/1909.01436)
+1. **Discriminative topic modeling with logistic lda** *Iryna Korshunova, Hanchen Xiong, Mateusz Fedoryszak, Lucas Theis* `arXiv 2019` [[pdf]](https://arxiv.org/abs/1909.01436)
 
-1. **Improving Topic Quality by Promoting Named Entities in Topic Modeling** *Krasnashchok K, Jouili S* `ACL 2018` [[pdf]](https://aclanthology.org/P18-2040/)
+1. **Improving Topic Quality by Promoting Named Entities in Topic Modeling** *Katsiaryna Krasnashchok, Salim Jouili* `ACL 2018` [[pdf]](https://aclanthology.org/P18-2040/)
 
-1. **A systematic review of the use of topic models for short text social media analysis** *Laureate CDP, Buntine W, Linger H* `Artificial Intelligence Review 2023` [[pdf]](https://link.springer.com/article/10.1007/s10462-023-10471-x)
+1. **A systematic review of the use of topic models for short text social media analysis** *Caitlin Doogan Poet Laureate, Wray Buntine, Henry Linger* `Artificial Intelligence Review 2023` [[pdf]](https://link.springer.com/article/10.1007/s10462-023-10471-x)
 
-1. **Sparsemax and relaxed wasserstein for topic sparsity** *Lin T, Hu Z, Guo X* `WSDM 2019` [[pdf]](https://arxiv.org/abs/1810.09079)
+1. **Sparsemax and relaxed wasserstein for topic sparsity** *Tianyi Lin, Zhiyue Hu, Xin Guo* `WSDM 2019` [[pdf]](https://arxiv.org/abs/1810.09079)
 
-1. **Plda+ parallel latent dirichlet allocation with data placement and pipeline processing** *Liu Z, Zhang Y, Chang EY, et al* `ACM Transactions on Intelligent Systems and Technology 2011` [[pdf]](https://dl.acm.org/doi/10.1145/1961189.1961198)
+1. **Plda+ parallel latent dirichlet allocation with data placement and pipeline processing** *Zhiyuan Liu, Yuzhou Zhang, Edward Y. Chang, Maosong Sun* `ACM Transactions on Intelligent Systems and Technology 2011` [[pdf]](https://dl.acm.org/doi/10.1145/1961189.1961198)
 
-1. **Supervised topic models** *Mcauliffe J, Blei D* `NeurIPS 2007` [[pdf]](https://papers.nips.cc/paper_files/paper/2007/hash/d56b9fc4b0f1be8871f5e1c40c0067e7-Abstract.html)
+1. **Supervised topic models** *David M. Blei, Jon D. McAuliffe* `NeurIPS 2007` [[pdf]](https://papers.nips.cc/paper_files/paper/2007/hash/d56b9fc4b0f1be8871f5e1c40c0067e7-Abstract.html)
 
-1. **Neural variational inference for text processing** *Miao Y, Yu L, Blunsom P* `ICML 2016` [[pdf]](https://arxiv.org/abs/1511.06038)
+1. **Neural variational inference for text processing** *Yishu Miao, Lei Yu, Phil Blunsom* `ICML 2016` [[pdf]](https://arxiv.org/abs/1511.06038)
 
-1. **Polylingual topic models** *Mimno D, Wallach H, Naradowsky J, et al* `EMNLP 2009` [[pdf]](https://aclanthology.org/D09-1092/)
+1. **Polylingual topic models** *David Mimno, Hanna M. Wallach, Jason Naradowsky, David A. Smith, Andrew McCallum* `EMNLP 2009` [[pdf]](https://aclanthology.org/D09-1092/)
 
-1. **Optimizing semantic coherence in topic models** *Mimno D, Wallach HM, Talley E, et al* `EMNLP 2011` [[pdf]](https://dl.acm.org/doi/10.5555/2145432.2145462)
+1. **Optimizing semantic coherence in topic models** *David Mimno, Hanna Wallach, Edmund Talley, Miriam Leenders, Andrew McCallum* `EMNLP 2011` [[pdf]](https://dl.acm.org/doi/10.5555/2145432.2145462)
 
-1. **Fine-tuning encoders for improved monolingual and zeroshot polylingual neural topic modeling** *Mueller A, Dredze M* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Fine-tuning encoders for improved monolingual and zeroshot polylingual neural topic modeling** *Aaron Mueller, Mark Dredze* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **Distributed algorithms for topic models** *Newman D, Asuncion A, Smyth P, et al* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2104.05064)
+1. **Distributed algorithms for topic models** *David Newman, Arthur Asuncion, Padhraic Smyth, Max Welling* `NAACL 2021` [[pdf]](https://arxiv.org/abs/2104.05064)
 
-1. **Automatic evaluation of topic coherence** *Newman D, Lau JH, Grieser K, et al* `NAACL 2010` [[pdf]](https://aclanthology.org/N10-1012/)
+1. **Automatic evaluation of topic coherence** *David Newman, Jey Han Lau, Karl Grieser, Timothy Baldwin* `NAACL 2010` [[pdf]](https://aclanthology.org/N10-1012/)
 
-1. **Enriching and controlling global semantics for text summarization** *Nguyen T, Luu AT, Lu T, et al* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.744/)
+1. **Enriching and controlling global semantics for text summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.744/)
 
-1. **Neural discrete representation learning** *Van den Oord A, Vinyals O* `arXiv 2017` [[pdf]](https://arxiv.org/abs/1711.00937)
+1. **Neural discrete representation learning** *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu* `arXiv 2017` [[pdf]](https://arxiv.org/abs/1711.00937)
 
-1. **Representation learning with contrastive predictive coding** *Van den Oord A, Li Y, Vinyals O* `arXiv 2018` [[pdf]](https://arxiv.org/abs/1807.03748)
+1. **Representation learning with contrastive predictive coding** *Aaron van den Oord, Yazhe Li, Oriol Vinyals* `arXiv 2018` [[pdf]](https://arxiv.org/abs/1807.03748)
 
-1. **Neural topic models for hierarchical topic detection and visualization** *Pham D, Le TM* `ECML PKDD 2021` [[pdf]](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_219.pdf)
+1. **Neural topic models for hierarchical topic detection and visualization** *Dang Pham, Tuan M. V. Le* `ECML PKDD 2021` [[pdf]](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_219.pdf)
 
-1. **Antm: An aligned neural topic model for exploring evolving topics** *Rahimi H, Naacke H, Constantin C, et al* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2302.01501)
+1. **Antm: An aligned neural topic model for exploring evolving topics** *Hamed Rahimi, Hubert Naacke, Camelia Constantin, Bernd Amann* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2302.01501)
 
-1. **Detecting common discussion topics across culture from news reader comments** *Shi B, Lam W, Bing L, et al* `ACL 2016` [[pdf]](https://aclanthology.org/P16-1064/)
+1. **Detecting common discussion topics across culture from news reader comments** *Bei Shi, Wai Lam, Lidong Bing, Yinqing Xu* `ACL 2016` [[pdf]](https://aclanthology.org/P16-1064/)
 
-1. **Short-text topic modeling via non-negative matrix factorization enriched with local word-context correlations** *Shi T, Kang K, Choo J, et al* `WWW 2018` [[pdf]](https://dl.acm.org/doi/10.1145/3178876.3186009)
+1. **Short-text topic modeling via non-negative matrix factorization enriched with local word-context correlations** *Tian Shi, Kyeongpil Kang, Jaegul Choo, Chandan K. Reddy* `WWW 2018` [[pdf]](https://dl.acm.org/doi/10.1145/3178876.3186009)
 
-1. **Tired of topic models? clusters of pretrained word embeddings make for fast and good topics too** *Sia S, Dalmia A, Mielke SJ* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.135/)
+1. **Tired of topic models? clusters of pretrained word embeddings make for fast and good topics too** *Suzanna Sia, Ayush Dalmia, Sabrina J. Mielke* `EMNLP 2020` [[pdf]](https://aclanthology.org/2020.emnlp-main.135/)
 
-1. **Classification aware neural topic model for covid-19 disinformation categorisation** *Song X, Petrak J, Jiang Y, et al* `PLOS 2021` [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247086)
+1. **Classification aware neural topic model for covid-19 disinformation categorisation** *Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva* `PLOS 2021` [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247086)
 
-1. **Re-visiting automated topic model evaluation with large language models** *Stammbach D, Zouhar V, Hoyle A, et al* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2305.12152)
+1. **Re-visiting automated topic model evaluation with large language models** *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2305.12152)
 
-1. **Topic modeling with contextualized word representation clusters** *Thompson L, Mimno D* `ACL 2020` [[pdf]](https://arxiv.org/abs/2010.12626)
+1. **Topic modeling with contextualized word representation clusters** *Laure Thompson, David Mimno* `ACL 2020` [[pdf]](https://arxiv.org/abs/2010.12626)
 
-1. **Topic modeling on podcast short-text metadata** *Valero FB, Baranes M, Epure EV* `ECIR 2022` [[pdf]](https://arxiv.org/abs/2201.04419)
+1. **Topic modeling on podcast short-text metadata** *Francisco B. Valero, Marion Baranes, Elena V. Epure* `ECIR 2022` [[pdf]](https://arxiv.org/abs/2201.04419)
 
-1. **Collaborative topic modeling for recommending scientific articles** *Valero FB, Baranes M, Epure EV* `KDD 2011` [[pdf]](https://dl.acm.org/doi/10.1145/2020408.2020480)
+1. **Collaborative topic modeling for recommending scientific articles** *Chong Wang, David M. Blei* `KDD 2011` [[pdf]](https://dl.acm.org/doi/10.1145/2020408.2020480)
 
-1. **Representing mixtures of word embeddings with mixtures of topic embeddings** *Wang H, He R, Liu H, et al* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2203.01570)
+1. **Representing mixtures of word embeddings with mixtures of topic embeddings** *Dongsheng Wang, Dandan Guo, He Zhao, Huangjie Zheng, Korawat Tanwisuth, Bo Chen, Mingyuan Zhou* `ICLR 2022` [[pdf]](https://arxiv.org/abs/2203.01570)
 
-1. **Neural topic model with attention for supervised learning** *Wang X, Yang Y* `AISTATS 2020` [[pdf]](https://proceedings.mlr.press/v108/wang20c.html)
+1. **Neural topic model with attention for supervised learning** *Xinyi Wang, Yi Yang* `AISTATS 2020` [[pdf]](https://proceedings.mlr.press/v108/wang20c.html)
 
-1. **Plda: Parallel latent dirichlet allocation for large-scale applications** *Wang Y, Bai H, Stanton M, et al* `AAIM 2009` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-642-02158-9_26)
+1. **Plda: Parallel latent dirichlet allocation for large-scale applications** *Yi Wang, Hongjie Bai, Matt Stanton, Wen-Yen Chen, Edward Y. Chang* `AAIM 2009` [[pdf]](https://link.springer.com/chapter/10.1007/978-3-642-02158-9_26)
 
-1. **Layer-assisted neural topic modeling over document networks** *Wang Y, Li X, Ouyang J* `IJCAI 2021` [[pdf]](https://www.ijcai.org/proceedings/2021/0433)
+1. **Layer-assisted neural topic modeling over document networks** *Yiming Wang, Ximing Li, Jihong Ouyang* `IJCAI 2021` [[pdf]](https://www.ijcai.org/proceedings/2021/0433)
 
-1. **Short Text Topic Modeling with Flexible Word Patterns** *Wu X, Li C* `IJCNN 2019` [[pdf]](https://ieeexplore.ieee.org/document/8852366)
+1. **Short Text Topic Modeling with Flexible Word Patterns** *Xiaobao Wu, Chunping Li* `IJCNN 2019` [[pdf]](https://ieeexplore.ieee.org/document/8852366)
 
-1. **Infoctm: A mutual information maximization perspective of cross-lingual topic modeling** *Wu X, Dong X, Nguyen T, et al* `AAAI 2023` [[pdf]](https://arxiv.org/abs/2304.03544)
+1. **Infoctm: A mutual information maximization perspective of cross-lingual topic modeling** *Xiaobao Wu, Xinshuai Dong, Thong Nguyen, Chaoqun Liu, Liangming Pan, Anh Tuan Luu* `AAAI 2023` [[pdf]](https://arxiv.org/abs/2304.03544)
 
-1. **Effective neural topic modeling with embedding clustering regularization** *Wu X, Dong X, Nguyen T, et al* `ICML 2023` 
+1. **Effective neural topic modeling with embedding clustering regularization** *Xiaobao Wu, Xinshuai Dong, Thong Thanh Nguyen, Anh Tuan Luu* `ICML 2023` 
 
-1. **Graph neural collaborative topic model for citation recommendation** *Xie Q, Zhu Y, Huang J, et al* `ACM Transactions on Information Systems 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3473973?sid=SCITRUS)
+1. **Graph neural collaborative topic model for citation recommendation** *Qianqian Xie, Yutao Zhu, Jimin Huang, Pan Du, Jian-Yun Nie* `ACM Transactions on Information Systems 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3473973?sid=SCITRUS)
 
-1. **Hyperminer: Topic taxonomy mining with hyperbolic embedding** *Xu Y, Wang D, Chen B, et al* `arXiv 2022` [[pdf]](https://arxiv.org/abs/2210.10625)
+1. **Hyperminer: Topic taxonomy mining with hyperbolic embedding** *Yishi Xu, Dongsheng Wang, Bo Chen, Ruiying Lu, Zhibin Duan, Mingyuan Zhou* `arXiv 2022` [[pdf]](https://arxiv.org/abs/2210.10625)
 
-1. **A biterm topic model for short texts** *Yan X, Guo J, Lan Y, et al* `WWW 2013` [[pdf]](https://dl.acm.org/doi/10.1145/2488388.2488514)
+1. **A biterm topic model for short texts** *Xiaohui Yan, Jiafeng Guo, Yanyan Lan, Xueqi Cheng* `WWW 2013` [[pdf]](https://dl.acm.org/doi/10.1145/2488388.2488514)
 
-1. **Topnet: Learning from neural topic model to generate long stories** *Yang Y, Pan B, Cai D, et al* `KDD 2021` [[pdf]](https://arxiv.org/abs/2112.07259)
+1. **Topnet: Learning from neural topic model to generate long stories** *Yazheng Yang, Boyuan Pan, Deng Cai, Huan Sun* `KDD 2021` [[pdf]](https://arxiv.org/abs/2112.07259)
 
-1. **A dirichlet multinomial mixture model-based approach for short text clustering** *Yin J, Wang J* `KDD 2014` [[pdf]](https://dl.acm.org/doi/10.1145/2623330.2623715)
+1. **A dirichlet multinomial mixture model-based approach for short text clustering** *Jianhua Yin, Jianyong Wang* `KDD 2014` [[pdf]](https://dl.acm.org/doi/10.1145/2623330.2623715)
 
-1. **Multilingual anchoring: Interactive topic modeling and alignment across languages** *Yuan M, Van Durme B, Ying JL* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Multilingual anchoring: Interactive topic modeling and alignment across languages** *Michelle Yuan, Benjamin Van Durme, Jordan L. Ying* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
 
-1. **What you say and how you say it: Joint modeling of topics and discourse in microblog conversations** *Zeng J, Li J, He Y, et al* `TACL 2019` [[pdf]](https://arxiv.org/abs/1903.07319)
+1. **What you say and how you say it: Joint modeling of topics and discourse in microblog conversations** *Jichuan Zeng, Jing Li, Yulan He, Cuiyun Gao, Michael R. Lyu, Irwin King* `TACL 2019` [[pdf]](https://arxiv.org/abs/1903.07319)
 
-1. **Lifelong topic modeling with knowledge-enhanced adversarial network** *Zhang X, Rao Y, Li Q* `WWW 2022` [[pdf]](https://link.springer.com/article/10.1007/s11280-021-00984-2)
+1. **Lifelong topic modeling with knowledge-enhanced adversarial network** *Xuewen Zhang, Yanghui Rao, Qing Li* `WWW 2022` [[pdf]](https://link.springer.com/article/10.1007/s11280-021-00984-2)
 
-1. **Htkg: Deep keyphrase generation with neural hierarchical topic guidance** *Zhang Y, Jiang T, Yang T, et al* `SIGIR 2022` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3531990)
+1. **Htkg: Deep keyphrase generation with neural hierarchical topic guidance** *Yuxiang Zhang, Tao Jiang, Tianyu Yang, Xiaoli Li, Suge Wang* `SIGIR 2022` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3531990)
 
-1. **Is neural topic modelling better than clustering? an empirical study on clustering with contextual embeddings for topics** *Zhang Z, Fang M, Chen L, et al* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.285/)
+1. **Is neural topic modelling better than clustering? an empirical study on clustering with contextual embeddings for topics** *Zihan Zhang, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad* `NAACL 2022` [[pdf]](https://aclanthology.org/2022.naacl-main.285/)
 
-1. **Topic modelling meets deep neural networks: A survey** *Zhao H, Phung D, Huynh V, et al* `arXiv 2021` [[pdf]](https://arxiv.org/abs/2103.00498)
+1. **Topic modelling meets deep neural networks: A survey** *He Zhao, Dinh Phung, Viet Huynh, Yuan Jin, Lan Du, Wray Buntine* `arXiv 2021` [[pdf]](https://arxiv.org/abs/2103.00498)
 
-1. **Neural topic model via optimal transport** *Wang Y, Bai H, Stanton M, et al* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2008.13537)
+1. **Neural topic model via optimal transport** *He Zhao, Dinh Phung, Viet Huynh, Trung Le, Wray Buntine* `ICLR 2021` [[pdf]](https://arxiv.org/abs/2008.13537)
 
-1. **A neural topic model with word vectors and entity vectors for short texts** *Zhao X, Wang D, Zhao Z, et al* `Information Processing & Management 2021` [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S030645732030947X)
+1. **A neural topic model with word vectors and entity vectors for short texts** *Xiaowei Zhao, Deqing Wang, Zhengyang Zhao, Wei Liu, Chenwei Lu, Fuzhen Zhuang* `Information Processing & Management 2021` [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S030645732030947X)
 
-1. **Graph neural topic model with commonsense knowledge** *Zhu B, Cai Y, Ren H* `Information Processing & Management 2023` [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003168)
+1. **Graph neural topic model with commonsense knowledge** *Bingshan Zhu, Yi Cai, Haopeng Ren* `Information Processing & Management 2023` [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0306457322003168)
 
 
 
