@@ -22,6 +22,9 @@
     - [Lifelong NTMs](#lifelong-ntms)
   - [Discovering Topics by Clustering](#discovering-topics-by-clustering)
   - [Applications of NTMs](#applications-of-ntms)
+    - [Text Analysis](#text-analysis)
+    - [Text Generation](#text-generation)
+    - [Content Recommendation](#content-recommendation)
   - [Evaluation of Topic Models](#evaluation-of-topic-models)
 
 
@@ -151,7 +154,7 @@
 1. **Cross-lingual Contextualized Topic Models with Zero-shot Learning** *Federico Bianchi, Silvia Terragni, Dirk Hovy, Debora Nozza, Elisabetta Fersini* `EACL 2021` [[pdf]](https://aclanthology.org/2021.eacl-main.143.pdf) [[code]](https://paperswithcode.com/paper/?acl=2021.eacl-main.143)
 
 
-2. **Large language models are implicitly topic models: Explaining and finding good demonstrations for in-context learning** *Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2301.11916)
+1. **Large language models are implicitly topic models: Explaining and finding good demonstrations for in-context learning** *Xinyi Wang, Wanrong Zhu, Michael Saxon, Mark Steyvers, William Yang Wang* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2301.11916)
 
 
 ### NTMs with Reinforcement Learning
@@ -209,6 +212,8 @@
 1. **A Novel Neural Topic Model and its Supervised Extension** * Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li, Heng Ji* `AAAI 2015` [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/9499/9358)
 
 1. **Document informed neural autoregressive topic models with distributional prior** *Pankaj Gupta, Yatin Chaudhary, Florian Buettner, Hinrich Schütze* `AAAI 2019` [[pdf]](https://arxiv.org/abs/1809.06709)
+
+1. **TextTOvec: Deep Contextualized Neural Autoregressive Topic Models of Language with Distributed Compositional Prior** * Pankaj Gupta, Yatin Chaudhary, Florian Buettner, Hinrich Schütze* ` ICLR 2019` [[pdf]](https://arxiv.org/abs/1810.03947)
 
 1. **Sparsemax and relaxed wasserstein for topic sparsity** *Tianyi Lin, Zhiyue Hu, Xin Guo* `WSDM 2019` [[pdf]](https://arxiv.org/abs/1810.09079)
 
@@ -315,45 +320,55 @@ Note that some studies are not real topic models since they can only produce top
 
 ## Applications of NTMs
 
-1. **Topic Memory Networks for Short Text Classification** *Jichuan Zeng, Jing Li, Yan Song, Cuiyun Gao, Michael R. Lyu, Irwin King* `EMNLP 2018` [[pdf]](https://aclanthology.org/D18-1351.pdf) [[code]](https://github.com/zengjichuan/TMN)
+### Text Analysis
 
-1. **Topic Modeling for Multi-Aspect Listwise Comparisons** *Delvin Ce Zhang, Hady W. Lauw* `CIKM 2021` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482398?casa_token=iLrtUseO1P8AAAAA:RgA_5uYNsLR2WSxVYa_6VSSI6ZxJitmBlgcmVSLGznWa_auqE3IHP8S5zO-nWM6L5r3OKQ81N8Ss6Xg) [[code]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcezhang01%2Fmalic&sa=D&sntz=1&usg=AOvVaw2Bqy_hLzRu13FRQdad_y_b)
+1. **Topic Memory Networks for Short Text Classification** *Jichuan Zeng, Jing Li, Yan Song, Cuiyun Gao, Michael R. Lyu, Irwin King* `EMNLP 2018` [[pdf]](https://aclanthology.org/D18-1351.pdf) [[code]](https://github.com/zengjichuan/TMN)
 
 1. **Neural Relational Topic Models for Scientific Article Analysis** *Haoli Bai, Zhuangbin Chen, Michael R. Lyu, Irwin King, Zenglin Xu* `CIKM 2018` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3269206.3271696?casa_token=Ak1DPOATCdQAAAAA:5i7CAa9x2dA8XUoN6ZBBLvKinqfR9OsqskT5ZlyJVNQ2vJvfv73q7eIeMqEvxrViP36PtohbB70wtg)
 
-1. **Topic-Guided Abstractive Text Summarization: a Joint Learning Approach** *Chujie Zheng, Kunpeng Zhang, Harry Jiannan Wang, Ling Fan, Zhe Wang* `arXiv 2020` [[pdf]](https://arxiv.org/abs/2010.10323)
+1. **Interaction-aware Topic Model for Microblog Conversations through Network Embedding and User Attention** *Ruifang He, Xuefei Zhang, Di Jin, Longbiao Wang, Jianwu Dang, Xiangang Li* `COLING 2018` [[pdf]](https://aclanthology.org/C18-1118/) 
 
 1. **TopicBERT for Energy Efficient Document Classification** *Yatin Chaudhary, Pankaj Gupta, Khushbu Saxena, Vivek Kulkarni, Thomas Runkler, Hinrich Schütze* `EMNLP 2020 Findings` [[pdf]](https://arxiv.org/abs/2010.16407) [[code]](https://github.com/YatinChaudhary/TopicBERT)
 
-1. **TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency** *Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley* `ICLR 2017` [[pdf]](https://arxiv.org/abs/1611.01702) [[code]](https://paperswithcode.com/paper/topicrnn-a-recurrent-neural-network-with-long)
-
-1. **Structured Neural Topic Models for Reviews** *Babak Esmaeili, Hongyi Huang, Byron C. Wallace, Jan-Willem van de Meent* `AISTATS 2019` [[pdf]](https://arxiv.org/abs/1812.05035) 
-
-1. **Interaction-aware Topic Model for Microblog Conversations through Network Embedding and User Attention** *Ruifang He, Xuefei Zhang, Di Jin, Longbiao Wang, Jianwu Dang, Xiangang Li* `COLING 2018` [[pdf]](https://aclanthology.org/C18-1118/) 
-
-1. **Enhancing extractive text summarization with topic-aware graph neural networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING 2020` [[pdf]](https://arxiv.org/abs/2010.06253)
-
-1. **Enriching and controlling global semantics for text summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.744/)
-
-1. **Htkg: Deep keyphrase generation with neural hierarchical topic guidance** *Yuxiang Zhang, Tao Jiang, Tianyu Yang, Xiaoli Li, Suge Wang* `SIGIR 2022` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3531990)
-
-1. **Applications of topic models** *David Mimno, Jordan Boyd-Graber, and Yuening Hu*  [[pdf]]()
-
 1. **Topic modeling techniques for text mining over a large-scale scientific and biomedical text corpus** *Sandhya Avasthi, Ritu Chauhan, Debi Prasanna Acharjya* `IJACI 2022` [[pdf]]([https://arxiv.org/abs/2012.01524](https://www.igi-global.com/article/topic-modeling-techniques-for-text-mining-over-a-large-scale-scientific-and-biomedical-text-corpus/293137))
 
-1. **Recurrent hierarchical topic-guided RNN for language generation** *Dandan Guo, Bo Chen, Ruiying Lu, Mingyuan Zhou* `ICML 2020` [[pdf]](https://arxiv.org/abs/1912.10337)
-
-1. **Multi task mutual learning for joint sentiment classification and topic detection** *Lin Gui; Jia Leng; Jiyun Zhou; Ruifeng Xu; Yulan He* `IEEE Transactions on Knowledge and Data Engineering 2020` [[pdf]](https://ieeexplore.ieee.org/document/9112648)
-
-1. **What you say and how you say it: Joint modeling of topics and discourse in microblog conversations** *Jichuan Zeng, Jing Li, Yulan He, Cuiyun Gao, Michael R. Lyu, Irwin King* `TACL 2019` [[pdf]](https://arxiv.org/abs/1903.07319)
-
-1. **Graph neural collaborative topic model for citation recommendation** *Qianqian Xie, Yutao Zhu, Jimin Huang, Pan Du, Jian-Yun Nie* `ACM Transactions on Information Systems 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3473973?sid=SCITRUS)
-
-1. **Topnet: Learning from neural topic model to generate long stories** *Yazheng Yang, Boyuan Pan, Deng Cai, Huan Sun* `KDD 2021` [[pdf]](https://arxiv.org/abs/2112.07259)
+1. **Classification aware neural topic model for covid-19 disinformation categorisation** *Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva* `PLOS 2021` [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247086)
 
 1. **Topic modeling on podcast short-text metadata** *Francisco B. Valero, Marion Baranes, Elena V. Epure* `ECIR 2022` [[pdf]](https://arxiv.org/abs/2201.04419)
 
-1. **Classification aware neural topic model for covid-19 disinformation categorisation** *Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, Kalina Bontcheva* `PLOS 2021` [[pdf]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247086)
+1. **Multi task mutual learning for joint sentiment classification and topic detection** *Lin Gui; Jia Leng; Jiyun Zhou; Ruifeng Xu; Yulan He* `IEEE Transactions on Knowledge and Data Engineering 2020` [[pdf]](https://ieeexplore.ieee.org/document/9112648)
+
+
+1. **Topic Modeling for Multi-Aspect Listwise Comparisons** *Delvin Ce Zhang, Hady W. Lauw* `CIKM 2021` [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3459637.3482398?casa_token=iLrtUseO1P8AAAAA:RgA_5uYNsLR2WSxVYa_6VSSI6ZxJitmBlgcmVSLGznWa_auqE3IHP8S5zO-nWM6L5r3OKQ81N8Ss6Xg) [[code]](https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Fcezhang01%2Fmalic&sa=D&sntz=1&usg=AOvVaw2Bqy_hLzRu13FRQdad_y_b)
+
+
+### Text Generation
+
+1. **A Topic Augmented Text Generation Model: Joint Learning of Semantics and Structural Features** *Hongyin Tang, Miao Li, Beihong Jin* `EMNLP 2019` [[pdf]](https://aclanthology.org/D19-1513/)
+
+1. **Topic-Guided Abstractive Text Summarization: a Joint Learning Approach** *Chujie Zheng, Kunpeng Zhang, Harry Jiannan Wang, Ling Fan, Zhe Wang* `arXiv 2020` [[pdf]](https://arxiv.org/abs/2010.10323)
+
+1. **What you say and how you say it: Joint modeling of topics and discourse in microblog conversations** *Jichuan Zeng, Jing Li, Yulan He, Cuiyun Gao, Michael R. Lyu, Irwin King* `TACL 2019` [[pdf]](https://arxiv.org/abs/1903.07319)
+
+1. **Enriching and Controlling Global Semantics for Text Summarization** *Thong Nguyen, Anh Tuan Luu, Truc Lu, Tho Quan* `EMNLP 2021` [[pdf]](https://aclanthology.org/2021.emnlp-main.744/)
+
+1. **Enhancing extractive text summarization with topic-aware graph neural networks** *Peng Cui, Le Hu, Yuanchao Liu* `COLING 2020` [[pdf]](https://arxiv.org/abs/2010.06253)
+
+1. **Recurrent Hierarchical Topic-guided RNN for Language Generation** *Dandan Guo, Bo Chen, Ruiying Lu, Mingyuan Zhou* `ICML 2020` [[pdf]](https://arxiv.org/abs/1912.10337)
+
+1. **Topnet: Learning from neural topic model to generate long stories** *Yazheng Yang, Boyuan Pan, Deng Cai, Huan Sun* `KDD 2021` [[pdf]](https://arxiv.org/abs/2112.07259)
+
+1. **HTKG: Deep Keyphrase Generation with Neural Hierarchical Topic Guidance** *Yuxiang Zhang, Tao Jiang, Tianyu Yang, Xiaoli Li, Suge Wang* `SIGIR 2022` [[pdf]](https://dl.acm.org/doi/abs/10.1145/3477495.3531990)
+
+1. **TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency** *Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley* `ICLR 2017` [[pdf]](https://arxiv.org/abs/1611.01702) [[code]](https://paperswithcode.com/paper/topicrnn-a-recurrent-neural-network-with-long)
+
+
+### Content Recommendation
+
+1. **Structured Neural Topic Models for Reviews** *Babak Esmaeili, Hongyi Huang, Byron C. Wallace, Jan-Willem van de Meent* `AISTATS 2019` [[pdf]](https://arxiv.org/abs/1812.05035) 
+
+1. **Graph neural collaborative topic model for citation recommendation** *Qianqian Xie, Yutao Zhu, Jimin Huang, Pan Du, Jian-Yun Nie* `ACM Transactions on Information Systems 2021` [[pdf]](https://dl.acm.org/doi/10.1145/3473973?sid=SCITRUS)
+
 
 
 
@@ -380,5 +395,3 @@ Note that some studies are not real topic models since they can only produce top
 1. **Benchmarking neural topic models: An empirical study** *Thanh-Nam Doan, Tuan-Anh Hoang* `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
 
 1. **Re-visiting automated topic model evaluation with large language models** *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash* `arXiv 2023` [[pdf]](https://arxiv.org/abs/2305.12152)
-
-
