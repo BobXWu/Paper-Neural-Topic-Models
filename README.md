@@ -1,8 +1,22 @@
 # Papers of Neural Topic Models (NTMs)
 
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+![GitHub stars](https://img.shields.io/github/stars/bobxwu/Paper-Neural-Topic-Models?color=yellow)
+
 This repo is a collection of research papers for our survey paper: [A Survey on Neural Topic Models: Methods, Applications, and Challenges](https://www.researchsquare.com/article/rs-3049182/latest.pdf).
 
+
+If you are interested in our survey, please cite as
+
+    @article{wu2023survey,
+    title={A Survey on Neural Topic Models: Methods, Applications, and Challenges},
+    author={Wu, Xiaobao and Nguyen, Thong and Luu, Anh Tuan},
+    year={2023}
+    }
+
+
 - [Papers of Neural Topic Models (NTMs)](#papers-of-neural-topic-models-ntms)
+  - [Toolkits](#toolkits)
   - [NTMs with Different Structures](#ntms-with-different-structures)
     - [VAE-based NTM](#vae-based-ntm)
     - [NTMs with Various Priors](#ntms-with-various-priors)
@@ -30,11 +44,15 @@ This repo is a collection of research papers for our survey paper: [A Survey on 
   - [Evaluation of Topic Models](#evaluation-of-topic-models)
 
 
-<!-- ## Survey
+## Toolkits
 
-1. **Topic Modelling Meets Deep Neural Networks: A Survey** `IJCAI 2021` [[pdf]](https://arxiv.org/pdf/2103.00498) -->
+1. **OCTIS: Comparing and Optimizing Topic models is Simple!** `EACL 2021` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-demos.31/) [[code]](https://github.com/MIND-Lab/OCTIS)
 
-<!-- *He Zhao, Dinh Phung, Viet Huynh, Yuan Jin, Lan Du, Wray Buntine* -->
+    *Silvia Terragni, Elisabetta Fersini, Bruno Giovanni Galuzzi, Pietro Tropeano, Antonio Candelieri*
+
+1. **Towards the TopMost: A Topic Modeling System Toolkit** `2023` [[pdf]](https://arxiv.org/pdf/2309.06908.pdf) [[code]](https://github.com/BobXWu/TopMost)
+
+    *Xiaobao Wu, Fengjun Pan, Anh Tuan Luu*
 
 
 
@@ -44,7 +62,7 @@ This repo is a collection of research papers for our survey paper: [A Survey on 
 
 1. **Neural Variational Inference for Text Processing** `ICML 2016` [[pdf]](https://arxiv.org/pdf/1511.06038) [[code]](https://github.com/ysmiao/nvdm)
 
-    *Yishu Miao, Lei Yu, Phil Blunso*
+    *Yishu Miao, Lei Yu, Phil Blunsom*
 
 1. **Autoencoding Variational Inference For Topic Models** `ICLR 2017` [[pdf]](https://arxiv.org/pdf/1703.01488) [[code]](https://github.com/akashgit/autoencoding_vi_for_topic_models)
 
@@ -154,11 +172,9 @@ This repo is a collection of research papers for our survey paper: [A Survey on 
 
     *Alexander Miserlis Hoyle, Pranav Goel, Philip Resnik*
 
-
 1. **Cross-Lingual Contextualized Topic Models with Zero-shot Learning** `EACL 2021` [[pdf]](https://aclanthology.org/2021.eacl-main.143.pdf) [[code]](https://paperswithcode.com/paper/?acl=2021.eacl-main.143)
 
     *Federico Bianchi, Silvia Terragni, Dirk Hovy, Debora Nozza, Elisabetta Fersini*
-
 
 1. **Large Language Models are Implicitly Topic Models: Explaining and finding good demonstrations for in-context learning** `arXiv 2023` [[pdf]](https://arxiv.org/abs/2301.11916)
 
@@ -252,6 +268,13 @@ This repo is a collection of research papers for our survey paper: [A Survey on 
 
     *Bingshan Zhu, Yi Cai, Haopeng Ren*
 
+1. **Topic Modeling on Document Networks with Dirichlet Optimal Transport Barycenter** `TKDE 2023` [[pdf]](https://drive.google.com/file/d/1ID-uSY5qvP2tyGRnZ0gdQ01S4TNe2WpJ/view?usp=sharing)
+
+    *Delvin Ce Zhang, Hady W. Lauw*
+
+1. **Hyperbolic Graph Topic Modeling Network with Continuously Updated Topic Tree** `KDD 2023` [[pdf]](https://drive.google.com/file/d/1DWlc7nQ9h1O0LwaRrjelIKk6ScUWIhEm/view?usp=sharing)
+
+    *Delvin Ce Zhang, Rex Ying, and Hady W. Lauw*
 
 
 ### Other NTMs
@@ -262,7 +285,7 @@ This repo is a collection of research papers for our survey paper: [A Survey on 
 
 1. **A Novel Neural Topic Model and its Supervised Extension** `AAAI 2015` [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/9499/9358)
 
-    * Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li, Heng Ji*
+    *Ziqiang Cao, Sujian Li, Yang Liu, Wenjie Li, Heng Ji*
 
 1. **Document Informed Neural Autoregressive Topic Models with Distributional Prior** `AAAI 2019` [[pdf]](https://arxiv.org/abs/1809.06709)
 
@@ -318,6 +341,10 @@ This repo is a collection of research papers for our survey paper: [A Survey on 
 1. **A Neural Topic Model with Word Vectors and Entity Vectors for Short Texts** `Information Processing & Management 2021` [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S030645732030947X)
 
     *Xiaowei Zhao, Deqing Wang, Zhengyang Zhao, Wei Liu, Chenwei Lu, Fuzhen Zhuang*
+
+1. **Meta-Complementing the Semantics of Short Texts in Neural Topic Models** `NeurIPS 2022` [[pdf]](https://drive.google.com/file/d/1riuC4cdMNy_0QOhW_Ulik0X6PDcPvXo6/view?usp=sharing)
+
+    *Delvin Ce Zhang, Hady W. Lauw*
 
 1. **Mitigating Data Sparsity for Short Text Topic Modeling by Topic-Semantic Contrastive Learning** `EMNLP 2022` [[pdf]](https://aclanthology.org/2022.emnlp-main.176) [[code]](https://github.com/bobxwu/TSCTM)
 
@@ -379,6 +406,7 @@ This repo is a collection of research papers for our survey paper: [A Survey on 
 
     *Hegang Chen, Pengbo Mao, Yuyin Lu, Yanghui Rao*
 
+
 ### Dynamic NTMs
 
 1. **The Dynamic Embedded Topic Model** `arXiv 2019` [[pdf]](https://arxiv.org/abs/2012.01524) [[code]](https://github.com/adjidieng/DETM)
@@ -413,7 +441,7 @@ This repo is a collection of research papers for our survey paper: [A Survey on 
 
 ## Topic Discovery by Clustering
 
-Note that some studies are not real topic models since they can only produce topics while cannot infer the topic distributions of documents as required.
+Note that these studies are not real topic models since they can only produce topics while cannot infer the topic distributions of documents as required.
 
 
 1. **Topic Modeling with Contextualized Word Representation Clusters** `arXiv 2020` [[pdf]](https://arxiv.org/pdf/2010.12626)
@@ -436,7 +464,7 @@ Note that some studies are not real topic models since they can only produce top
 
     *Federico Bianchi, Silvia Terragni, Dirk Hovy*
 
-1. **BERTopic: Neural Topic Modeling with a Class-based TF-IDF Procedure** `arXiv 2022` [[pdf]](https://arxiv.org/abs/2203.05794)
+1. **BERTopic: Neural Topic Modeling with a Class-based TF-IDF Procedure** `arXiv 2022` [[pdf]](https://arxiv.org/abs/2203.05794) [[code]](https://github.com/MaartenGr/BERTopic)
 
     *Maarten Grootendorst*
 
@@ -584,7 +612,7 @@ Note that some studies are not real topic models since they can only produce top
 
     *Alexander Hoyle, Pranav Goel, Rupak Sarkar, Philip Resnik*
 
-1. **Benchmarking Neural Topic Models: An Empirical Study** `ACL 2021` [[pdf]](https://arxiv.org/abs/2012.01524)
+1. **Benchmarking Neural Topic Models: An Empirical Study** `ACL 2021` [[pdf]](https://aclanthology.org/2021.findings-acl.382.pdf)
 
     *Thanh-Nam Doan, Tuan-Anh Hoang*
 
