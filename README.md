@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 ![GitHub stars](https://img.shields.io/github/stars/bobxwu/Paper-Neural-Topic-Models?color=yellow)
 
-This repo is a collection of research papers for our survey paper: [A Survey on Neural Topic Models: Methods, Applications, and Challenges](https://www.researchsquare.com/article/rs-3049182/latest.pdf).
+This repo is a collection of research papers for our survey paper [*A Survey on Neural Topic Models: Methods, Applications, and Challenges*](https://link.springer.com/article/10.1007/s10462-023-10661-7) published at Artificial Intelligence Review.
 
 
 If you are interested in our survey, please cite as
@@ -11,7 +11,10 @@ If you are interested in our survey, please cite as
     @article{wu2023survey,
     title={A Survey on Neural Topic Models: Methods, Applications, and Challenges},
     author={Wu, Xiaobao and Nguyen, Thong and Luu, Anh Tuan},
-    year={2023}
+    journal={Artificial Intelligence Review},
+    url={https://doi.org/10.1007/s10462-023-10661-7},
+    year={2024},
+    publisher={Springer}
     }
 
 
@@ -406,6 +409,10 @@ If you are interested in our survey, please cite as
 
     *Hegang Chen, Pengbo Mao, Yuyin Lu, Yanghui Rao*
 
+1. **On the Affinity, Rationality, and Diversity of Hierarchical Topic Modeling** `AAAI 2024` [[pdf]](https://arxiv.org/pdf/2401.14113.pdf) [[code]](https://github.com/BobXWu/TraCo)
+
+    *Xiaobao Wu, Fengjun Pan, Thong Nguyen, Yichao Feng, Chaoqun Liu, Cong-Duy Nguyen, Anh Tuan Luu*
+
 
 ### Dynamic NTMs
 
@@ -617,5 +624,9 @@ Note that these studies are not real topic models since they can only produce to
     *Thanh-Nam Doan, Tuan-Anh Hoang*
 
 1. **Re-visiting Automated Topic Model Evaluation with Large Language Models** `arXiv 2023` [[pdf]](https://arxiv.org/abs/2305.12152)
+
+    *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash*
+
+1. **Revisiting Automated Topic Model Evaluation with Large Language Models** `EMNLP 2023` [[pdf]](https://aclanthology.org/2023.emnlp-main.581.pdf)
 
     *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash*
