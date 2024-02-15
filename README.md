@@ -118,6 +118,10 @@ If you are interested in our survey, please cite as
 
     *Runzhi Tian, Yongyi Mao, Richong Zhang*
 
+1. **vONTSS: vMF based semi-supervised neural topic modeling with optimal transport** `EMNLP 2023 Findings` [[pdf]](https://aclanthology.org/2023.findings-acl.271/)  [[code]](https://github.com/xuweijieshuai/Neural-Topic-Modeling-vmf)
+
+    *Weijie Xu, Xiaoyu Jiang, Srinivasan Sengamedu Hanumantha Rao, Francis Iannacci, Jinjin Zhao*
+
 
 
 
@@ -566,6 +570,11 @@ Note that these studies are not real topic models since they can only produce to
 1. **TopicRNN: A Recurrent Neural Network with Long-range Semantic Dependency** `ICLR 2017` [[pdf]](https://arxiv.org/abs/1611.01702) [[code]](https://paperswithcode.com/paper/topicrnn-a-recurrent-neural-network-with-long)
 
     *Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley*
+   
+1. **DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM** `EMNLP 2023 Finding` [[pdf]](https://aclanthology.org/2023.findings-emnlp.606.pdf) [[code]](https://github.com/amazon-science/text_generation_diffusion_llm_topic)
+
+    *Weijie Xu, Wenxiang Hu, Fanyou Wu, Srinivasan H. Sengamedu*
+
 
 
 ### Content Recommendation
