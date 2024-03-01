@@ -229,6 +229,9 @@ If you are interested in our survey, please cite as
 
     *Xiaobao Wu, Anh Tuan Luu, Xinshuai Dong*
 
+1. **Topic Modeling as Multi-Objective Contrastive Optimization** `ICLR 2024` [[pdf]](https://arxiv.org/pdf/2402.07577.pdf)
+
+    *Thong Nguyen, Xiaobao Wu, Xinshuai Dong, Cong-Duy Nguyen, See-Kiong Ng, Anh Tuan Luu*
 
 ### NTMs with Metadata
 
