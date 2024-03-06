@@ -3,8 +3,10 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 ![GitHub stars](https://img.shields.io/github/stars/bobxwu/Paper-Neural-Topic-Models?color=yellow)
 
-This repo is a collection of research papers for our survey paper [*A Survey on Neural Topic Models: Methods, Applications, and Challenges*](https://link.springer.com/article/10.1007/s10462-023-10661-7) published at Artificial Intelligence Review.
+## **Check our latest topic modeling toolkit [TopMost](https://github.com/bobxwu/topmost) !**
 
+
+This repo is a collection of research papers for our survey paper [*A Survey on Neural Topic Models: Methods, Applications, and Challenges*](https://link.springer.com/article/10.1007/s10462-023-10661-7) published at Artificial Intelligence Review.
 
 If you are interested in our survey, please cite as
 
