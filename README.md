@@ -288,6 +288,9 @@ If you are interested in our survey, please cite as
 
     *Delvin Ce Zhang, Rex Ying, and Hady W. Lauw*
 
+1. **ConvNTM: Conversational Neural Topic Model** `AAAI 2023` [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26595/26367)]
+
+    *Hongda Sun, Quan Tu, Jinpeng Li, Rui Yan*
 
 ### Other NTMs
 
