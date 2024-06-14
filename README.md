@@ -11,16 +11,17 @@ This repo is a collection of research papers for our survey paper [*A Survey on 
 If you are interested in our survey, please cite as
 
     @article{wu2023survey,
-    title={A Survey on Neural Topic Models: Methods, Applications, and Challenges},
-    author={Wu, Xiaobao and Nguyen, Thong and Luu, Anh Tuan},
-    journal={Artificial Intelligence Review},
-    url={https://doi.org/10.1007/s10462-023-10661-7},
-    year={2024},
-    publisher={Springer}
+        title={A Survey on Neural Topic Models: Methods, Applications, and Challenges},
+        author={Wu, Xiaobao and Nguyen, Thong and Luu, Anh Tuan},
+        journal={Artificial Intelligence Review},
+        url={https://doi.org/10.1007/s10462-023-10661-7},
+        year={2024},
+        publisher={Springer}
     }
 
 
 - [Papers of Neural Topic Models (NTMs)](#papers-of-neural-topic-models-ntms)
+  - [**Check our latest topic modeling toolkit TopMost !**](#check-our-latest-topic-modeling-toolkit-topmost-)
   - [Toolkits](#toolkits)
   - [NTMs with Different Structures](#ntms-with-different-structures)
     - [VAE-based NTM](#vae-based-ntm)
@@ -51,17 +52,21 @@ If you are interested in our survey, please cite as
 
 ## Toolkits
 
-1. **OCTIS: Comparing and Optimizing Topic models is Simple!** `EACL 2021` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-demos.31/) [[code]](https://github.com/MIND-Lab/OCTIS)
+1. **OCTIS: Comparing and Optimizing Topic models is Simple!** `EACL 2021 demo` [[pdf]](https://www.aclweb.org/anthology/2021.eacl-demos.31/) [[code]](https://github.com/MIND-Lab/OCTIS)
 
     *Silvia Terragni, Elisabetta Fersini, Bruno Giovanni Galuzzi, Pietro Tropeano, Antonio Candelieri*
 
-1. **Towards the TopMost: A Topic Modeling System Toolkit** `2023` [[pdf]](https://arxiv.org/pdf/2309.06908.pdf) [[code]](https://github.com/BobXWu/TopMost)
+1. **Towards the TopMost: A Topic Modeling System Toolkit** `ACL 2024 demo` [[pdf]](https://arxiv.org/pdf/2309.06908.pdf) [[code]](https://github.com/BobXWu/TopMost)
 
     *Xiaobao Wu, Fengjun Pan, Anh Tuan Luu*
 
 
 
 ## NTMs with Different Structures
+
+1. **FASTopic: A Fast, Adaptive, Stable, and Transferable Topic Modeling Paradigm** [[pdf]](https://arxiv.org/pdf/2405.17978) [[code]](https://github.com/BobXWu/FASTopic)
+
+    *Xiaobao Wu, Thong Nguyen, Delvin Ce Zhang, William Yang Wang, Anh Tuan Luu*
 
 ### VAE-based NTM
 
@@ -288,9 +293,15 @@ If you are interested in our survey, please cite as
 
     *Delvin Ce Zhang, Rex Ying, and Hady W. Lauw*
 
+
+1. **GINopic: Topic Modeling with Graph Isomorphism Network** `NAACL 2024` [[pdf]](https://arxiv.org/pdf/2404.02115) [[code]](https://github.com/AdhyaSuman/GINopic)
+
+    *Suman Adhya, Debarshi Kumar Sanyal*
+
 1. **ConvNTM: Conversational Neural Topic Model** `AAAI 2023` [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/26595/26367)]
 
     *Hongda Sun, Quan Tu, Jinpeng Li, Rui Yan*
+
 
 ### Other NTMs
 
@@ -444,6 +455,9 @@ If you are interested in our survey, please cite as
 
     *Hamed Rahimi, Hubert Naacke, Camelia Constantin, Bernd Amann*
 
+1. **Modeling Dynamic Topics in Chain-Free Fashion by Evolution-Tracking Contrastive Learning and Unassociated Word Exclusion** `ACL 2024 Findings` [[pdf]](https://arxiv.org/pdf/2405.17957) [[code]](https://github.com/BobXWu/CFDTM)
+
+    *Xiaobao Wu, Xinshuai Dong, Liangming Pan, Thong Nguyen, Anh Tuan Luu*
 
 
 ### Lifelong NTMs
@@ -579,7 +593,7 @@ Note that these studies are not real topic models since they can only produce to
 
     *Adji B. Dieng, Chong Wang, Jianfeng Gao, John Paisley*
    
-1. **DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM** `EMNLP 2023 Finding` [[pdf]](https://aclanthology.org/2023.findings-emnlp.606.pdf) [[code]](https://github.com/amazon-science/text_generation_diffusion_llm_topic)
+1. **DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM** `EMNLP 2023 Findings` [[pdf]](https://aclanthology.org/2023.findings-emnlp.606.pdf) [[code]](https://github.com/amazon-science/text_generation_diffusion_llm_topic)
 
     *Weijie Xu, Wenxiang Hu, Fanyou Wu, Srinivasan H. Sengamedu*
 
