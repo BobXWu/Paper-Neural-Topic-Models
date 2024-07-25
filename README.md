@@ -474,7 +474,7 @@ If you are interested in our survey, please cite as
 
 ## Topic Discovery by Clustering
 
-Note that these studies are not real topic models since they can only produce topics while cannot infer the topic distributions of documents as required.
+Note that some studies cannot infer the topic distributions for documents as LDA.
 
 
 1. **Topic Modeling with Contextualized Word Representation Clusters** `arXiv 2020` [[pdf]](https://arxiv.org/pdf/2010.12626)
@@ -653,10 +653,6 @@ Note that these studies are not real topic models since they can only produce to
 1. **Benchmarking Neural Topic Models: An Empirical Study** `ACL 2021` [[pdf]](https://aclanthology.org/2021.findings-acl.382.pdf)
 
     *Thanh-Nam Doan, Tuan-Anh Hoang*
-
-1. **Re-visiting Automated Topic Model Evaluation with Large Language Models** `arXiv 2023` [[pdf]](https://arxiv.org/abs/2305.12152)
-
-    *Dominik Stammbach, Vilém Zouhar, Alexander Hoyle, Mrinmaya Sachan, Elliott Ash*
 
 1. **Revisiting Automated Topic Model Evaluation with Large Language Models** `EMNLP 2023` [[pdf]](https://aclanthology.org/2023.emnlp-main.581.pdf)
 
